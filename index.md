@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-# Who I am
+# Who I am #
+
 I'm a Post-Bac working at the Lawrence Berkeley national lab designing QED modules for the [WarpX Particle in Cell (PIC) simulation software.]
  (https://warpx.readthedocs.io/en/latest/)
 
@@ -11,8 +12,7 @@ I'm a Post-Bac working at the Lawrence Berkeley national lab designing QED modul
 
  When not working on physics, I enjoy reading. I'm currently finishing James Islington's **Licanus trilogy**.
 
- # Publications
-
+# Publications 
  * L. Tvrznikova et al., _Direct comparison of high voltage breakdown measurements in liquid argon and liquid xenon_,
   [JINST. vol. 14, no. 12, PI12018-P12018 (2019)](https://iopscience.iop.org/article/10.1088/1748-0221/14/12/P12018)
 

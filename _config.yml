@@ -23,7 +23,7 @@ repository               : "gtrichardson/gtrichardson.github.io"
 author:
   # Biographic information
   avatar           : "headshot.jpeg"
-  name             : "More Links"
+  name             : #"More Links"
   pronouns         : "he/him"  
   bio              : "PhD student at Yale and SLAC"
   location         : "Wright Labratory"

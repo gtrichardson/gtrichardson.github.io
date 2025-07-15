@@ -10,6 +10,11 @@ var addressPoints = [
     -122.1598465
   ],
   [
+    "Detecting Solar Neutrinos and Fermionic Dark Matter with \\(^{136}\\)Xe in nEXO<br />Qionghai Hotel; Xichang, Sichuan Province, China",
+    27.8458993,
+    102.124224
+  ],
+  [
     "Simulation of Charge Reconstruction in the nEXO Experiment<br />Hilton New York Times Square; New York, NY, USA",
     40.7127281,
     -74.0060152

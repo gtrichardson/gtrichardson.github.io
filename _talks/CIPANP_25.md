@@ -1,11 +1,11 @@
 ---
-title: "Status and Development of nEXO’s Charge Readout System"
+title: "Sensitivity of nEXO to \\(^{136}\\)Xe Charged-Current Interactions: Background-free Searches for Solar Neutrinos and Fermionic Dark Matter"
 collection: talks
 type: "Talk"
 permalink: /talks/CPAD_2024
-venue: "SLAC National Labs"
-date: 2023-08-08
-location: "Palo Alto, CA, USA"
+venue: "University of Wisconsin Madison"
+date: 2025-06-09
+location: "Madison, WI, USA"
 ---
 
 [Conference Page](https://agenda.hep.wisc.edu/event/2257/timetable/?view=standard_numbered_inline_minutes)

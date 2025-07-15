@@ -1,5 +1,5 @@
 ---
-title: "Sensitivity of nEXO to 136Xe Charged-Current Interactions: Background-free Searches for Solar Neutrinos and Fermionic Dark Matter"
+title: "Sensitivity of nEXO to \\(^{136}\\)Xe Charged-Current Interactions: Background-free Searches for Solar Neutrinos and Fermionic Dark Matter"
 collection: publications
 category: manuscripts
 #permalink: /publication/Xe136_CC

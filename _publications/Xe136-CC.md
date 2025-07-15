@@ -2,7 +2,7 @@
 title: "Sensitivity of nEXO to 136Xe Charged-Current Interactions: Background-free Searches for Solar Neutrinos and Fermionic Dark Matter"
 collection: publications
 category: manuscripts
-permalink: /publication/Xe136-CC
+#permalink: /publication/Xe136-CC
 excerpt: 'Isomeric states of <span>$^{136}\mathrm{Cs}$</span> create a unique time-delayed coincident signal in LXe TPCs, which can be used for background rejection on the order of <span>$10^{-9}$</span>, enabling background-free measurements of solar neutrinos and electron-coupling fermionic dark matter.'
 date: 2025-06-27
 venue: 'PRD'

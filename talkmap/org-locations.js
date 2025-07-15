@@ -10,7 +10,7 @@ var addressPoints = [
     -122.1598465
   ],
   [
-    "Detecting Solar Neutrinos and Fermionic Dark Matter with \\(^{136}\\)Xe in nEXO<br />Qionghai Hotel; Xichang, Sichuan Province, China",
+    "Detecting Solar Neutrinos and Fermionic Dark Matter with \\(^{136}\\)Xe in nEXO<br />Qionghai Hotel; Xichang, Liangshan Yi Autonomous Prefecture, Sichuan Province, China",
     27.8458993,
     102.124224
   ],
@@ -28,6 +28,11 @@ var addressPoints = [
     "Solar Neutrino Detection with the nEXO Experiment<br />Hilton Waikoloa Village; Waikoloa Village, HI, USA",
     19.9469278,
     -155.787398
+  ],
+  [
+    "Sensitivity of nEXO to \\(^{136}\\)Xe Charged-Current Interactions: Background-free Searches for Solar Neutrinos and Fermionic Dark Matter<br />University of Wisconsin Madison; Madison, WI, USA",
+    43.074761,
+    -89.3837613
   ],
   [
     "Low Energy Structure of \\(^{136}\\)Cs and its Implications for Xenon Based Astroparticle Physics<br />Hilton Boston Park Plaza Hotel; Boston, MA, USA",

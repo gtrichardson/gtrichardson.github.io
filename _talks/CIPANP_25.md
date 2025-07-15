@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/CPAD_2024
 venue: "SLAC National Labs"
-date: 20123-08-08
+date: 2023-08-08
 location: "Palo Alto, CA, USA"
 ---
 

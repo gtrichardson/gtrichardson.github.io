@@ -1,6 +1,6 @@
 ---
 title: "Charged-Current Interactions in LXe TPCs"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/Andreas_inspired_level_diagram.pdf'>"
 collection: projects
 ---
 

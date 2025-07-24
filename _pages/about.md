@@ -1,56 +1,40 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+My name is Glenn Richardson (he/him). I'm a sixth-year PhD candidate at Yale University and SLAC National Laboratory, nearing the end of my program. I work with both [Brian Lenardo](https://blenardo.sites.stanford.edu) (SLAC) and [David Moore](https://physics.yale.edu/people/david-moore) (Yale) on the [nEXO](https://nexo.llnl.gov) and [GRIFFIN](https://griffin.triumf.ca) projects. I'm currently in New Haven, finishing up a GRIFFIN analysis and preparing to write my thesis.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I moved to New Haven (for the first time) in 2020 from Berkeley, CA, where I had just completed a post-baccalaureate year working at Lawrence Berkeley National Lab as part of the Warp-X collaboration. Before that, I was an undergraduate at UC Berkeley, where I worked with Daniel McKinsey on the LZ project and earned BAs in Physics and Mathematics.
 
-A data-driven personal website
+Current Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My current research focuses on developing new techniques and technologies for liquid xenon (LXe) time projection chambers (TPCs), particularly the nEXO experiment — a proposed 5-tonne LXe TPC designed to search for the hypothesized decay process known as neutrinoless double beta decay. Observation of this process would be an immediate indication of physics beyond the Standard Model — including the discovery of a new category of fundamental particles (Majorana fermions) — and would shed light on the origin of the matter–antimatter asymmetry.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+The first part of my thesis focuses on optimizing and developing nEXO’s charge readout system. nEXO plans to use conducting tiles on the TPC anode to collect ionization electrons produced by candidate events, providing a measurement of the energy, topology, and X/Y position of those events. My work involves simulating and optimizing the design of these tiles to maximize the experiment’s scientific reach. As part of my SCGSR fellowship, I collaborated with the SLAC and Stanford nEXO groups to develop a prototype charge readout module, which I deployed in a 23 kg LXe test stand at Stanford. This marked the first-ever implementation of nEXO’s charge readout concept.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+The second half of my thesis explores how LXe TPCs can be leveraged to broaden their physics program beyond dark matter and neutrinoless double beta decay. Specifically, I study how charged-current interactions  
+\[(\nu_e + ^{136}\mathrm{Xe} \rightarrow ^{136}\mathrm{Cs}^* + e^-)\]  
+on Xe-136 (136Xe-CC) can be used to perform background-free measurements of solar neutrinos and electron-coupled fermionic dark matter.
 
-Getting started
+Recent observations of the low-lying nuclear structure of \(^{136}\)Cs have revealed isomeric states with lifetimes on the ~100 ns scale that are populated in these interactions. Their delayed de-excitation in LXe TPCs creates a time-coincident signal that can be used to tag 136Xe-CC events and discriminate against backgrounds to the level of \(10^{-9}\), potentially enabling background-free searches. The paper for this work is currently under review at PRD and the arXiv listing can be found [here](https://arxiv.org/abs/2506.22586).
+
+In addition to this nEXO simulation and analysis work, I have also investigated the nuclear structure of \(^{136}\)Cs using the GRIFFIN experiment at TRIUMF. This project aims to measure the lifetime and internal conversion rate of the 105 keV nuclear state in \(^{136}\)Cs, which plays a key role in the 136Xe-CC interaction as the intermediate state between the two observed isomers. The results of this analysis are nearing completion, and we expect to begin writing the paper within the next few months.
+
+Personal Interests
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Some of my favorite things to do in the New Haven area are paddle-boarding on Yale Lake and boating on Long Island Sound. In the winter, when those are less accessible, I usually spend time at the New Haven pottery studio learning how to throw. I'm approaching the level of skill where a stranger might agree that the cups I make are actually cups. I'm hoping to try my hand at making bowls soon.
 
-Site-wide configuration
+Previous Research Work
+======
+Prior to starting my PhD at Yale, I worked as a research assistant at LBNL under [Jean-Luc Vey](https://profiles.lbl.gov/19111-jeanluc-vay) as part of the [Warp-X](https://crd.lbl.gov/news-and-publications/news/2023/warpx-code-shines-at-the-exascale-level/) group, where I developed algorithms for solving Maxwell's equations with QED corrections. This work focused on incorporating photon–photon interactions into the Warp-X simulation in order to predict and validate the plasma mirror experiments that our collaborators were working on.
+
+Before starting work at LBNL, I was an undergraduate at UC Berkeley majoring in Physics and Mathematics. There, I worked with [Daniel McKinsey](https://physics.berkeley.edu/people/faculty/daniel-mckinsey) on the LUX-ZEPLIN experiment, which uses a two-phase LXe TPC to search for weakly interacting massive particle (WIMP) dark matter. My specific work involved designing and building a LXe purity monitor to be used in the group’s [Xenon Breakdown Apparatus (XeBrA) experiment](https://iopscience.iop.org/article/10.1088/1748-0221/14/12/P12018).
+
+Contact Me
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+The best way to contact me is my Yale e-mail address: glenn.richardson@yale.edu
